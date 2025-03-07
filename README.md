@@ -17,3 +17,9 @@ E para instalar a partir dele em outro ambiente:
 pip install -r requirements.txt
 ```
 Assim, você terá instalado os pacotes / bibliotecas que usaremos.
+
+Por enquanto use:
+```sh
+python app.py
+```
+Para executar o código.
